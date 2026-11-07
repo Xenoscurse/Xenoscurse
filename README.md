@@ -1,7 +1,7 @@
 <h1 align="center">Xeno</h1>
 
 <p align="center">
-  <i>Full-Stack Developer | Cloudflare & Rust Enthusiast</i>
+  <i>Full-Stack Developer</i>
 </p>
 
 <p align="center">
@@ -35,24 +35,4 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-</p>
-
----
-
-### GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xenoscurse&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xenoscurse&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-### Contact
-
-<p align="left">
-  <a href="https://github.com/Xenoscurse" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
 </p>
