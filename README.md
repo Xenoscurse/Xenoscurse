@@ -50,24 +50,7 @@ My primary focus is on edge computing, specifically within the Cloudflare ecosys
 
 ### Featured Projects
 
-While I maintain several private repositories for personal infrastructure and applications, here are the core projects I am currently building:
-
-*   **[Stellar](https://github.com/Xenoscurse/Stellar)** — A comprehensive media tracking platform. Built entirely on edge infrastructure, it handles complex third-party syncing, user authentication, and custom watchlists with minimal latency.
-*   **[Cronus](https://github.com/Xenoscurse/Cronus)** — A secure, internal administrative dashboard designed to interface directly with Stellar's backend. It provides deep cache management, database exploration, API health monitoring, and manual data overrides.
-*   **[Stellaris](https://github.com/Xenoscurse/Stellaris)** — A high-performance native CLI and GUI application built in Rust. Focused on media discovery and playback, it integrates directly with local media players and external providers.
-
----
-
-### GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Xenoscurse&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Xenoscurse&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xenoscurse&layout=compact&theme=radical&hide_border=true&count_private=true" alt="Top Languages" />
-</p>
+*Public projects are currently in development. Check back soon for open-source tools and utilities.*
 
 ---
 
@@ -76,14 +59,3 @@ While I maintain several private repositories for personal infrastructure and ap
 - Deepening my knowledge of distributed systems and edge computing using Cloudflare Durable Objects.
 - Building high-performance CLI tooling with Rust and `tokio`.
 - Exploring WebAssembly (WASM) for browser-based, compute-heavy tasks.
-
----
-
-### Contact
-
-<p align="left">
-  <a href="https://github.com/Xenoscurse" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <!-- You can add your Discord, LinkedIn, or personal website here later -->
-</p>
