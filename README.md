@@ -14,7 +14,7 @@
 
 I am a developer who enjoys working across the entire stack. From writing low-level systems code in Rust to designing intuitive, responsive interfaces with React, I strive to bridge the gap between complex backend architecture and clean, accessible frontends. 
 
-My primary focus is on edge computing, specifically within the Cloudflare ecosystem, where I build highly available, zero-latency applications.
+My primary focus is on edge computing and serverless architectures, where I build highly available, zero-latency applications.
 
 ---
 
@@ -40,7 +40,7 @@ My primary focus is on edge computing, specifically within the Cloudflare ecosys
 
 **Backend & Cloud**
 <p align="left">
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare Workers" />
+  <img src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white" alt="Serverless" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -56,6 +56,6 @@ My primary focus is on edge computing, specifically within the Cloudflare ecosys
 
 ### Current Focus
 
-- Deepening my knowledge of distributed systems and edge computing using Cloudflare Durable Objects.
+- Deepening my knowledge of distributed systems and real-time edge computing.
 - Building high-performance CLI tooling with Rust and `tokio`.
 - Exploring WebAssembly (WASM) for browser-based, compute-heavy tasks.
