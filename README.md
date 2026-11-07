@@ -14,11 +14,11 @@
 
 I am a developer who enjoys working across the entire stack. From writing low-level systems code in Rust to designing intuitive, responsive interfaces with React, I strive to bridge the gap between complex backend architecture and clean, accessible frontends. 
 
-My primary focus is on edge computing, specifically within the Cloudflare ecosystem (Workers, D1, KV), where I build highly available, zero-latency applications.
+My primary focus is on edge computing, specifically within the Cloudflare ecosystem, where I build highly available, zero-latency applications.
 
 ---
 
-### Languages & Technologies
+### Languages & Tech
 
 **Languages**
 <p align="left">
