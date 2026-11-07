@@ -5,20 +5,20 @@
 </p>
 
 <p align="center">
-  I build scalable web applications, secure cloud backends, and high-performance native tools. I focus on creating seamless user experiences backed by fast, reliable, and modern infrastructure.
+  I build scalable web applications, secure cloud backends, and high-performance native tooling. My work focuses on seamless user experiences supported by fast, dependable, and modern infrastructure.
 </p>
 
 ---
 
 ### About Me
 
-I am a developer who enjoys working across the entire stack. From writing low-level systems code in Rust to designing intuitive, responsive interfaces with React, I strive to bridge the gap between complex backend architecture and clean, accessible frontends. 
+I work across the full stack, from low-level systems code in Rust to responsive, intuitive interfaces in React. My focus is bridging complex backend architecture with clean, accessible frontends.
 
-My primary focus is on edge computing and serverless architectures, where I build highly available, zero-latency applications.
+My primary focus is edge computing and serverless architecture, where I build highly available, low-latency systems designed to remain reliable under real-world constraints.
 
 ---
 
-### Languages & Tech
+### Languages and Technologies
 
 **Languages**
 <p align="left">
@@ -38,7 +38,7 @@ My primary focus is on edge computing and serverless architectures, where I buil
   <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui" />
 </p>
 
-**Backend & Cloud**
+**Backend and Cloud**
 <p align="left">
   <img src="https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white" alt="Serverless" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
@@ -50,12 +50,12 @@ My primary focus is on edge computing and serverless architectures, where I buil
 
 ### Featured Projects
 
-*Public projects are currently in development. Check back soon for open-source tools and utilities.*
+Public projects are currently in development. Open-source tools and utilities will be published as they are released.
 
 ---
 
 ### Current Focus
 
-- Deepening my knowledge of distributed systems and real-time edge computing.
-- Building high-performance CLI tooling with Rust and `tokio`.
-- Exploring WebAssembly (WASM) for browser-based, compute-heavy tasks.
+- Expanding my knowledge of distributed systems and real-time edge computing.
+- Developing high-performance CLI tooling in Rust with `tokio`.
+- Exploring WebAssembly (WASM) for compute-intensive tasks in the browser.
