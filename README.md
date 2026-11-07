@@ -5,20 +5,12 @@
 </p>
 
 <p align="center">
-  I build scalable web applications, secure cloud backends, and high-performance native tools. My current focus is on the Cloudflare ecosystem (Workers, D1, KV) and integrating modern React frontends with Rust-based systems.
+  I build scalable web applications, secure cloud backends, and high-performance native tools. I focus on creating seamless user experiences backed by fast, reliable, and modern infrastructure.
 </p>
 
 ---
 
-### Featured Projects
-
-*   **[Stellar](https://github.com/Xenoscurse/Stellar)** — A full-stack anime and media tracking platform. Built with React, Cloudflare Workers, and D1. Features AniList syncing, custom watchlists, and a modern UI.
-*   **[Cronus](https://github.com/Xenoscurse/Cronus)** — A secure administrative dashboard for Stellar. Designed for KV cache management, D1 database exploration, API health monitoring, and overriding AniList/Anikoto mappings.
-*   **[Stellaris](https://github.com/Xenoscurse/Stellaris)** — A high-performance Rust CLI and native GUI port of `ani-cli`. Built with `egui`, focused on Anikoto providers and seamless local playback via `mpv`.
-
----
-
-### Languages & Technologies
+### Languages
 
 <p align="left">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -28,11 +20,5 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
 </p>
